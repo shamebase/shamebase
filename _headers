@@ -1,0 +1,5 @@
+/*
+    Access-Control-Allow-Origin: https://shamebase.com
+    Content-Security-Policy: base-uri 'self'; connect-src 'self'; default-src 'self'; font-src 'self' https://cdn.jsdelivr.net; form-action 'self'; img-src 'self'; script-src 'self' 'unsafe-inline' https://static.cloudflareinsights.com; style-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net;
+    Permissions-Policy: camera=(), geolocation=(), microphone=(), payment=()
+    X-Frame-Options: SAMEORIGIN

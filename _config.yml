@@ -1,0 +1,19 @@
+include:
+  - _headers
+
+locale: "en-US"
+
+logo: "/assets/images/shamebase-logo.png"
+
+minimal_mistakes_skin: air
+
+plugins:
+  - jekyll-feed
+
+repository: "shamebase/shamebase"
+
+title: "Shamebase"
+
+theme: minimal-mistakes-jekyll
+
+url: "https://shamebase.com"
